@@ -1,0 +1,14 @@
+D:\Projetos em C#\MusicSoud\MusicSoud\bin\Debug\net8.0\MusicSoud.exe
+D:\Projetos em C#\MusicSoud\MusicSoud\bin\Debug\net8.0\MusicSoud.deps.json
+D:\Projetos em C#\MusicSoud\MusicSoud\bin\Debug\net8.0\MusicSoud.runtimeconfig.json
+D:\Projetos em C#\MusicSoud\MusicSoud\bin\Debug\net8.0\MusicSoud.dll
+D:\Projetos em C#\MusicSoud\MusicSoud\bin\Debug\net8.0\MusicSoud.pdb
+D:\Projetos em C#\MusicSoud\MusicSoud\obj\Debug\net8.0\MusicSoud.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos em C#\MusicSoud\MusicSoud\obj\Debug\net8.0\MusicSoud.AssemblyInfoInputs.cache
+D:\Projetos em C#\MusicSoud\MusicSoud\obj\Debug\net8.0\MusicSoud.AssemblyInfo.cs
+D:\Projetos em C#\MusicSoud\MusicSoud\obj\Debug\net8.0\MusicSoud.csproj.CoreCompileInputs.cache
+D:\Projetos em C#\MusicSoud\MusicSoud\obj\Debug\net8.0\MusicSoud.dll
+D:\Projetos em C#\MusicSoud\MusicSoud\obj\Debug\net8.0\refint\MusicSoud.dll
+D:\Projetos em C#\MusicSoud\MusicSoud\obj\Debug\net8.0\MusicSoud.pdb
+D:\Projetos em C#\MusicSoud\MusicSoud\obj\Debug\net8.0\MusicSoud.genruntimeconfig.cache
+D:\Projetos em C#\MusicSoud\MusicSoud\obj\Debug\net8.0\ref\MusicSoud.dll
